@@ -49,9 +49,9 @@
       "type": "string",
       "displayPriority": 8
     },
-    "linkedin": {
+    "instagram": {
       "format": "uri",
-      "title": "Linkedin",
+      "title": "Instagram",
       "type": "string",
       "displayPriority": 9
     },
