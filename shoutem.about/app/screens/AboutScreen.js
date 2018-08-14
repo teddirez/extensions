@@ -354,9 +354,9 @@ export class AboutScreen extends PureComponent {
             title={I18n.t('shoutem.cms.emailButton')}
           />
           <SocialButton
-            icon="linkedin"
-            url={profile.linkedin}
-            title="LinkedIn"
+            icon="instagram"
+            url={profile.instagram}
+            title="Instagram"
             openURL={openURL}
           />
           <SocialButton
